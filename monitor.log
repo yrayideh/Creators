@@ -1,0 +1,3 @@
+8 ./.ssh 0 ./DEVOPS/SDLC/Linux/Jenkins/Git 0 ./DEVOPS/SDLC/Linux/Jenkins 0 ./DEVOPS/SDLC/Linux 0 ./DEVOPS/SDLC 0 ./DEVOPS/Maven/Nexus 4 ./DEVOPS/Maven 4 ./DEVOPS 0 ./.icecream 0 ./.money 0 ./.config/procps 0 ./.config 0 ./creator 80 .
+Filesystem Size Used Avail Use% Mounted on devtmpfs 375M 0 375M 0% /dev tmpfs 404M 0 404M 0% /dev/shm tmpfs 404M 11M 393M 3% /run tmpfs 404M 0 404M 0% /sys/fs/cgroup /dev/xvda2 10G 1.7G 8.4G 17% / tmpfs 81M 0 81M 0% /run/user/1000
+total used free shared buff/cache available Mem: 806Mi 150Mi 406Mi 12Mi 248Mi 524Mi Swap: 0B 0B 0B
