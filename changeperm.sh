@@ -6,3 +6,4 @@ echo what permission do you wish to assign to file/directory?
 read permission
 
 sudo chmod $permission $name
+echo $name has been granted a $permission permission
